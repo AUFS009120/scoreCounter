@@ -1,0 +1,52 @@
+.winner{
+  color: black;
+}
+h1{
+text-align: center;
+background-color: #ff9d9d;
+padding: 10px;
+color : white;
+width : 50%;
+margin: 0 auto;
+}
+p{
+text-align: center;
+background-color: black;
+color : white;
+padding: 15px 10px;
+width : 50%;
+margin: 0 auto;
+}
+.label{
+  text-align: center;
+  width : 50%;
+  margin: 0 auto;
+  background-color: #32e0c4;
+  padding: 20px 10px 10px;
+}
+
+button{
+display: block;
+margin : 0 auto;
+border : none;
+background-color: #ff9234;
+padding : 10px;
+}
+button:hover{
+  background-color: #303960;
+  color : white;
+}
+input[type="number"]:hover{
+  background-color: #303960;
+  color : white;
+}
+
+input[type="number"]{
+width : 120px;
+background-color: #ff9234
+}
+
+.p1, .p2, .reset{
+  width : 200px;
+  margin-bottom: 10px;
+}
