@@ -16,7 +16,7 @@ p1Button.addEventListener("click", function() {
     p1Score++;
     if (p1Score === winningScore) {
       p1Display.classList.add("winner");
-      alert("Congratulations, You have won the match...!");
+      alert("Congratulations, player 1 won the match...!");
 
       gameOver = true;
     }
@@ -29,7 +29,7 @@ p2Button.addEventListener("click", function() {
     p2Score++;
     if (p2Score === winningScore) {
       p2Display.classList.add("winner");
-      alert("Congratulations, You have won the match...!");
+      alert("Congratulations, player 2 won the match...!");
 
       gameOver = true;
     }
