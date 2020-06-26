@@ -1,1 +1,1 @@
-git@github.com:vinodhr37/scoreCounter/
+https://vinodhr37.github.io/scoreCounter/
