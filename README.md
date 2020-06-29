@@ -1,3 +1,3 @@
 
-https://AUFS009120.github.io/scoreCounter/
+https://vinod-reddy-au9.github.io/scoreCounter/
 
