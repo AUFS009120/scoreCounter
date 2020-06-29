@@ -1,3 +1,3 @@
 
-https://vinodhr37.github.io/scoreCounter/
+https://AUFS009120.github.io/scoreCounter/
 
